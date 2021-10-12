@@ -1,6 +1,6 @@
 ### Simple JEST Test
 
-In this quick project I wanted to get some experience with Jest so I created a simple task with a couple probs and setup two tests and a snapshot to see if it runs currectly!
+In this quick project I wanted to get some experience with Jest so I created a simple task with a couple props and setup two tests and a snapshot to see if it runs currectly!
 
 
 # Technologies:
